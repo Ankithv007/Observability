@@ -48,3 +48,10 @@ Grafana is an open-source platform for monitoring and observability that provide
 3. PromQL in Grafana: While creating visualizations in Grafana, you write PromQL queries to retrieve metrics from Prometheus.
 4. Alerting: Grafana also supports alerting, where you can set up thresholds (like if CPU usage exceeds 80%) and get notified via integrated alert channels.
 
+★ **Feature 1**: This is the first feature.
+→ *Next Step*: Follow the instructions.
+✔ **Task Completed**: This task is done.
+**ankith b v**
+*ankith b v*
+
+
