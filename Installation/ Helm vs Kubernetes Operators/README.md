@@ -102,7 +102,7 @@ Helm and Kubernetes Operators serve different purposes in the Kubernetes ecosyst
 
 - Use **Helm** for quick deployments and configurations of applications without complex operational requirements.
 - Use **Operators** for managing stateful or complex applications that require advanced lifecycle management, continuous monitoring, and self-healing capabilities.
-
+```
 my-chart/
   ├── Chart.yaml           # Contains chart metadata (name, version, description, etc.)
   ├── values.yaml          # Default configuration values
@@ -112,5 +112,5 @@ my-chart/
   │   └── _helpers.tpl     # Template helper functions
   ├── charts/              # Directory for chart dependencies
   └── README.md            # Optional readme file for chart documentation
-
+```
 
