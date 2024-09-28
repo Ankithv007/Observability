@@ -2,7 +2,9 @@
 Observability tools are critical in DevOps for monitoring, logging, and gaining insights into the performance and behavior of your systems.
 ![Observability](https://github.com/Ankithv007/Kubernetes/blob/main/images/Observability.png)
 Prometheus and Grafana are widely used together to monitor systems, gather metrics, and create beautiful dashboards for observability.
-
+### architecture of prometheus
+![architecture of prometheus](https://github.com/Ankithv007/Kubernetes/blob/main/images/Prometheus.png)
+https://github.com/Ankithv007/Kubernetes/blob/main/images/Prometheus.png
 1. Prometheus: Monitoring and Alerting Tool
 Prometheus is an open-source system monitoring and alerting toolkit designed to capture metrics from different services and infrastructure, store them in a time-series database, and provide a query language to analyze this data. Prometheus is especially popular for Kubernetes environments.
 
