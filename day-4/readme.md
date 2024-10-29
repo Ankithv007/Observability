@@ -47,7 +47,7 @@
 - 📸 **Implement Distributed Tracing for Node.js Application**: Enhance observability by instrumenting the Node.js application for distributed tracing using Jaeger. enabling better performance monitoring and troubleshooting of complex, multi-service architectures.
 
 # 🏠 Architecture
-![Project Architecture](images/architecture.gif)
+![Project Architecture]([images/architecture.gif](https://github.com/iam-veeramalla/observability-zero-to-hero/blob/main/day-4/images/architecture.gif))
 
 ## 1) Write Custom Metrics
 - Please take a look at `day-4/application/service-a/index.js` file to learn more about custom metrics. below is the brief overview
